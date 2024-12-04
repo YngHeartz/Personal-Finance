@@ -1,1 +1,1 @@
-Personal Financing Application that will act as a budget app saving your data onto a server
+A Personal Finance Application designed as a budget management tool, securely storing your data on a MongoDB server for efficient and reliable access.
